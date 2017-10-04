@@ -1,0 +1,19 @@
+<html>
+<head>
+<!--#include virtual="/fragment/top.html" -->
+<title>Pat Farrell's new website TA DA  </title>
+</head>
+<body>
+This is Pat Farrell's new website Ta Dah!
+
+
+<p>
+Link to <a href=genealogy>Genealogy information</a>
+<br>
+Link to observed trials
+
+
+<!--#include virtual="/fragment/bottomfooter.html" -->
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+<html>
+<head>
+<!--#include virtual="/fragment/top.html" -->
+<title>Pat Farrell's genealogy information</title>
+</head>
+<body>
+This is information about Pat Farrell's family genealogy.
+<p>
+Pat's parents were from Omaha Nebraska
+
+<!--#include virtual="/fragment/bottomfooter.html" -->
+</body>
+</html>
+
