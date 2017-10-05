@@ -1,0 +1,13 @@
+<html>
+<head>
+<!--#include virtual="/fragment/top.html" -->
+<title>Pat Farrell's new baz, not foo</title>
+</head>
+<body>
+This is Pat Farrell's new  baz is way better than any other file
+
+
+<!--#include virtual="/fragment/bottomfooter.html" -->
+</body>
+</html>
+
