@@ -7,10 +7,12 @@
 This is Pat Farrell's new website Ta Dah!
 
 
-<p>
-Link to <a href=genealogy>Genealogy information</a>
-<br>
-Link to observed trials
+<ul>
+<li>Link to <a href=genealogy>Genealogy information</a>
+<li>Link to observed trials
+<li>Link to <a href=foo>Foo</a>
+<li>Link to <a href=baz>Baz</a> way better than foo
+</ul>
 
 
 <!--#include virtual="/fragment/bottomfooter.html" -->

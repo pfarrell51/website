@@ -6,7 +6,9 @@
 <body>
 This is information about Pat Farrell's family genealogy.
 <p>
-Pat's parents were from Omaha Nebraska
+Pat's parents were from Omaha Nebraska.
+<p>
+<a href=tree>Reunion generated family tree</a>
 
 <!--#include virtual="/fragment/bottomfooter.html" -->
 </body>
