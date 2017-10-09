@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Observed Trials observed by Pat Farrell</title>
+  <title>Pat Farrell's new foo</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--#include virtual="/fragment/top.html" -->
@@ -10,8 +10,7 @@
 
 <div class="container-fluid">
   <div class="row content">
-    <!--#include virtual="/fragment/sidenav.html" -->
-
+<!--#include virtual="/fragment/sidenav.html" -->
     <div class="col-sm-9">
       <h4><small>General Topics</small></h4>
       <hr>
