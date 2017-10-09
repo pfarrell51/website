@@ -2,15 +2,46 @@
 <head>
 <!--#include virtual="/fragment/top.frag" -->
 <title>Pat Farrell's genealogy information</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--#include virtual="/fragment/top.frag" -->
+
 </head>
 <body>
-This is information about Pat Farrell's family genealogy.
-<p>
-Pat's parents were from Omaha Nebraska.
-<p>
-<a href=tree>Reunion generated family tree</a>
 
+<div class="container-fluid">
+  <div class="row content">
+<!--#include virtual="/fragment/sidenav.frag" -->
+ <div class="col-sm-9">
+
+<h1> Pat Farrell's family genealogy.</h1>
+<p>
+Pat's parents were from Omaha Nebraska. Pat's dad was 
+<a href="/genealogy/tree/ps01/ps01_004.htm">Andrew H Farrell</a>,
+ born 1910 in Omaha NE. 
+His mom was <a href="/genealogy/tree/ps01/ps01_005.htm">Clare Margaret (Scogin) Farrell</a>,
+ born in 1914 in Omaha. NE.
+
+<p>
+<h2>Family Tree</h2>
+<a href=tree>Reunion generated family tree</a>
+<p>
+
+This information is freely available to all family, with a pretty broad definition of family,
+but I do retain the copyright to the data and collection. Please, do not upload this data to any
+commercial genealogy website, such as Ancestry.com. I dislike that these commercial companies accept in 
+genealogy research and then charge others for access.
+<p><p>
+The tree is generated using the <a href="http://www.leisterpro.com/">Reunion 11 for Macintosh</a> software.
+I've tried a bunch of different programs for storing genealogy data, and I like Reunion 11 far more than any other.
+It runs only on Apple OS-X (Macintosh) and Apple IOS (iPhone, iPad, etc.) computers. I keep my MacBook Pro laptop
+solely to run Reunion.
+
+  </div>
+</div>
+<footer class="container-fluid">
 <!--#include virtual="/fragment/bottomfooter.frag" -->
+</footer>
 </body>
 </html>
 
