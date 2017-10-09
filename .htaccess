@@ -1,2 +1,5 @@
 Options +MultiViews
 
+RedirectMatch 301 "(.*)\.html$" "$1" 
+
+

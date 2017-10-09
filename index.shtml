@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--#include virtual="/fragment/top.html" -->
+<!--#include virtual="/fragment/top.frag" -->
 
 </head>
 <body>
 
 <div class="container-fluid">
   <div class="row content">
-<!--#include virtual="/fragment/sidenav.html" -->
+<!--#include virtual="/fragment/sidenav.frag" -->
 
     <div class="col-sm-9">
       <h4><small>General Topics</small></h4>
@@ -79,7 +79,7 @@ Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 3
 </div>
 
 <footer class="container-fluid">
-<!--#include virtual="/fragment/bottomfooter.html" -->
+<!--#include virtual="/fragment/bottomfooter.frag" -->
 </footer>
 
 

@@ -1,6 +1,6 @@
 <html>
 <head>
-<!--#include virtual="/fragment/top.html" -->
+<!--#include virtual="/fragment/top.frag" -->
 <title>Pat Farrell's genealogy information</title>
 </head>
 <body>
@@ -10,7 +10,7 @@ Pat's parents were from Omaha Nebraska.
 <p>
 <a href=tree>Reunion generated family tree</a>
 
-<!--#include virtual="/fragment/bottomfooter.html" -->
+<!--#include virtual="/fragment/bottomfooter.frag" -->
 </body>
 </html>
 

@@ -122,7 +122,7 @@ Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 3
 </div>
 
 <footer class="container-fluid">
-<!--#include virtual="/fragment/bottomfooter.html" -->
+<!--#include virtual="/fragment/bottomfooter.frag" -->
 </footer>
 
 
