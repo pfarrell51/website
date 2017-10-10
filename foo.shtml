@@ -4,118 +4,32 @@
   <title>Pat Farrell's new foo</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
-    .row.content {height: 1500px}
-    
-    /* Set gray background color and 100% height */
-    .sidenav {
-      background-color: #f1f1f1;
-      height: 100%;
-    }
-    
-    /* Set black background color, white text and some padding */
-    footer {
-      background-color: #555;
-      color: white;
-      padding: 15px;
-    }
-    
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 15px;
-      }
-      .row.content {height: auto;} 
-    }
-  </style>
+<!--#include virtual="/fragment/top.frag" -->
 </head>
 <body>
 
 <div class="container-fluid">
   <div class="row content">
-    <div class="col-sm-3 sidenav">
-      <h4>Pat's Options</h4>
-      <ul class="nav nav-pills nav-stacked">
-        <li class="active"><a href="/">Home</a></li>
-        <li><a href="genealogy">Genealogy</a></li>
-        <li><a href="trials">Observed Trials</a></li>
-        <li><a href="motorcycles">Other motorcycles</a></li>
-        <li><a href="#section4">Photos</a></li>
-      </ul><br>
-      <div class="input-group">
-        <input type="text" class="form-control" placeholder="Search Blog..">
-        <span class="input-group-btn">
-          <button class="btn btn-default" type="button">
-            <span class="glyphicon glyphicon-search"></span>
-          </button>
-        </span>
-      </div>
-    </div>
-
+<!--#include virtual="/fragment/sidenav.frag" -->
     <div class="col-sm-9">
       <h4><small>General Topics</small></h4>
       <hr>
-      <h2>I Love Motorcycles</h2>
+      <h2>title</h2>
 
       <h5><span class="label label-danger">Motorcycles</span> <span class="label label-primary">All</span></h5><br>
-      <p>I'm a motorcycle nut. I only have three now. I started riding when I was 18, way back in 1969.
+      <p>https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_blog&stacked=h 
       <br><br>
       
-      <h4><small>RECENT POSTS</small></h4>
+      <h4><small>Bootstrap </small></h4>
       <hr>
       <h2>Observed Trials</h2>
       <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
       <h5><span class="label label-success">Observed Trials</span></h5><br>
-      <p>Trials (or more properly "Observed Trials") is a motorcycle sport that is unlike anything I've done before.
-Its about balance and timing, not about speed.
-I recently bought a used trials bike, so I can improve my balance and bike control.<br>
+      <p>
 
-<img src="/images/Beta_at_Chris_K.jpg"  height="150" width="250" alt="Beta trials">
-</p>
 
-      <h2>Trails/Enduro</h2>
-      <h5><span class="glyphicon glyphicon-time"></span> Post August 23, 2016.</h5>
-      <h5><span class="label label-success">Trails</span></h5><br>
-      <p>Trail/enduro. My first motorcycle was a Hodaka Ace 90, I bought it with the earnings of my work in the summer of 1969.
-It was a "dirt bike" altho it nominally was street legal.<br>
-<img src="/images/200px-Hodaka_Ace_90.jpg"  height="200" width="200" alt="Hodaka Ace 90">
 
-<br>
-I got out of motorcycles in about 1985, did not ride one again for about 30 years.
-Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 300 XC-W.
-<br>
-
-<img src="/images/pickingup_ktm300.jpg"  height="250" width="300" alt="New KTM300">
-</p>
-      <hr>
-
-      <br><br>
-      
-      <p><span class="badge">2</span> Comments:</p><br>
-      
-      <div class="row">
-        <div class="col-sm-2 text-center">
-          <img src="/images/Beta_at_Chris_K.jpg" class="img-circle" height="65" width="65" alt="Beta trials">
-        </div>
-        <div class="col-sm-10">
-          <h4>Anja <small>Sep 29, 2015, 9:12 PM</small></h4>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <br>
-        </div>
-        <div class="col-sm-2 text-center">
-          <img src="/images/pickingup_ktm300.jpg" class="img-circle" height="65" width="65" alt="KTM300">
-        </div>
-        <div class="col-sm-10">
-          <h4>John Row <small>Sep 25, 2015, 8:25 PM</small></h4>
-          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <br>
-          
-        </div>
       </div>
     </div>
   </div>
