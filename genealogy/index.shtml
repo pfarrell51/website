@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <!--#include virtual="/fragment/top.frag" -->
 <title>Pat Farrell's genealogy information</title>
@@ -12,9 +13,11 @@
 <div class="container-fluid">
   <div class="row content">
 <!--#include virtual="/fragment/sidenav.frag" -->
- <div class="col-sm-9">
 
-<h1> Pat Farrell's family genealogy.</h1>
+
+<div class="col-sm-9">
+
+<h2> Pat Farrell's family genealogy.</h2>
 <p>
 Pat's parents were from Omaha Nebraska. Pat's dad was 
 <a href="/genealogy/tree/ps01/ps01_004.htm">Andrew H Farrell</a>,
@@ -25,7 +28,7 @@ His mom was <a href="/genealogy/tree/ps01/ps01_005.htm">Clare Margaret (Scogin) 
 <p>
 <h2>Family Tree</h2>
 <a href=tree>Reunion generated family tree</a>
-<p>
+<p><p>
 
 This information is freely available to all family, with a pretty broad definition of family,
 but I do retain the copyright to the data and collection. Please, do not upload this data to any
@@ -37,8 +40,44 @@ I've tried a bunch of different programs for storing genealogy data, and I like 
 It runs only on Apple OS-X (Macintosh) and Apple IOS (iPhone, iPad, etc.) computers. I keep my MacBook Pro laptop
 solely to run Reunion.
 
+<hr>
+
+      <div class="row">
+        <div class="col-sm-2 text-center">
+          Earliest Farrell
+        </div>
+        <div class="col-sm-10">
+          <p> Peter Farrell <small>Born about 1790</small> County Cork, Ireland</p>
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          Earliest Scogin
+        </div>
+        <div class="col-sm-10">
+          <h4>Solomon Scoggin <small>Born about 1750</small></h4>
+          <p>No record of where Solomon was born, or how he got to the US.</p>
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          Earliest Schottler
+        </div>
+        <div class="col-sm-10">
+          <h4>Herman C Schottler <small>Born 19 Jan 1884</small></h4>
+          <p>Appleton, Wisconsin.</p>
+          <br>
+        </div>
+
+      </div>
+
+   </div>
+
+
+
   </div>
+
+
 </div>
+
 <footer class="container-fluid">
 <!--#include virtual="/fragment/bottomfooter.frag" -->
 </footer>
