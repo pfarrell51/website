@@ -11,7 +11,7 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row content">
+  <div class="row content"> <!–– one row for whole page ––> 
 <!--#include virtual="/fragment/sidenav.frag" -->
       
     <div class="col-sm-9">
@@ -21,32 +21,30 @@ This is my personal website. It reflects my interests currently and over some po
 
     </div>
     <div class="col-sm-9">
-      <h4><small>General Topics</small></h4>
-      <hr>
     
-
       <h2>I Love Motorcycles</h2>
 
       <h5><span class="label label-danger">Motorcycles</span> <span class="label label-primary">All</span></h5><br>
       <p>I'm a motorcycle nut. I only have three now. I started riding when I was 18, way back in 1969.
-      <br><br>
-      <p><p>
+      <br>
+    </div>
+      
         <div class="col-sm-2 text-center">
           <img src="/images/RD350_1974.jpg" height="100" width="150" alt="RD350">
         </div>
     <div class="col-sm-1">  &nbsp;</div>
-  <div class="col-sm-8">
+  <div class="col-sm-6">
 My friend Lloyd introduced me to street bikes, my early bikes were mostly dirt bikes. 
 Once I rode Lloyd's Yamaha R5, I was hooked.
 I had to have my own Yamaha 350, so I bought a Yamaha RD350.
 <p>
 <p>
 In a few years, I got into road racing, and did that up through the 1987 season.
-</div>
+<p><p>
 </div>
       
-      <h4><small>RECENT POSTS</small></h4>
-      <hr>
+    <div class="col-sm-9">
+      
       <h2>Observed Trials</h2>
       <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
       <h5><span class="label label-success">Observed Trials</span></h5><br>
@@ -73,11 +71,7 @@ Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 3
 </p>
       <hr>
 
-      <br><br>
       
-      <p><span class="badge">2</span> Comments:</p><br>
-      
-      <div class="row">
         <div class="col-sm-2 text-center">
           <img src="/images/Beta_at_Chris_K.jpg" class="img-circle" height="65" width="65" alt="Beta trials">
         </div>
@@ -92,18 +86,14 @@ Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 3
         <div class="col-sm-10">
           <h4>John Row <small>Sep 25, 2015, 8:25 PM</small></h4>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <br>
-          
+          <br>          
         </div>
-      </div>
-    </div>
-  </div>
+     </div>
+  </div>  <!–– close row ––> 
 </div>
 
 <footer class="container-fluid">
 <!--#include virtual="/fragment/bottomfooter.frag" -->
 </footer>
-
-
 </body>
 </html>
