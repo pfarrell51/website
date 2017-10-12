@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Pat Farrell's  Geek and Tech pages</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--#include virtual="/fragment/top.frag" -->
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+<!--#include virtual="/fragment/sidenav.frag" -->
+    <div class="col-sm-9">
+      <h4><small>General Topics</small></h4>
+Pat is a retired software engineer. I got into programming on punched cards.
+I have used a ton of languages and operating systems. I even
+know a bit about networking and proper setup of TCP/IP hosts.
+<p>
+That means I'm a geek or nerd.
+      <hr>
+      <h2>This page build on templates from </h2>
+
+      <h5><span class="label label-danger">Templates</span> <span class="label label-primary">Bootstrap</span></h5><br>
+      <p>https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_blog&stacked=h 
+      <br><br>
+      
+      <h4><small>RECENT POSTS</small></h4>
+      <hr>
+      <h2>Github</h2>
+      <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
+      <h5><span class="label label-success">github.com</span></h5><br>
+      <p>
+I keep public repositories on <a href="https://github.com/>github.com</a>
+For example, the source code to this website is on github as
+<a href="https://github.com/pfarrell51/website">https://github.com/pfarrell51/website</a>
+
+
+</p>
+
+      
+      <p><span class="badge">2</span> Comments:</p><br>
+      
+      <div class="row">
+        <div class="col-sm-2 text-center">
+          <img src="/images/Beta_at_Chris_K.jpg" class="img-circle" height="65" width="65" alt="Beta trials">
+        </div>
+        <div class="col-sm-10">
+          <h4>GO <small>Sep 29, 2015, 9:12 PM</small></h4>
+          <p> 
+I am playing with the 'go' language.
+It seems to be designed to address the types of problems that I like to work in.
+I have neve really been an application developer, although I have done that. I generally prefer
+to work at the intersection of the application, the operating sytem, hardware, network and other
+technical stuff.
+
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          <img src="/images/pickingup_ktm300.jpg" class="img-circle" height="65" width="65" alt="KTM300">
+        </div>
+        <div class="col-sm-10">
+          <h4>John Row <small>Sep 25, 2015, 8:25 PM</small></h4>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <br>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid">
+<!--#include virtual="/fragment/bottomfooter.frag" -->
+</footer>
+
+
+</body>
+</html>
+
