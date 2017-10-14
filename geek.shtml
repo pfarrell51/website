@@ -12,20 +12,24 @@
   <div class="row content">
 <!--#include virtual="/fragment/sidenav.frag" -->
     <div class="col-sm-9">
-      <h4><small>General Topics</small></h4>
+      <h2><small>General Topics</small></h2>
 Pat is a retired software engineer. I got into programming on punched cards.
 I have used a ton of languages and operating systems. I even
 know a bit about networking and proper setup of TCP/IP hosts.
 <p>
 That means I'm a geek or nerd.
       <hr>
-      <h2>This page build on templates from </h2>
+      <h3>This page build on templates from </h3>
 
       <h5><span class="label label-danger">Templates</span> <span class="label label-primary">Bootstrap</span></h5><br>
       <p>https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_blog&stacked=h 
       <br><br>
-      
-      <h4><small>RECENT POSTS</small></h4>
+
+<hr>
+<h2>Quote:</h2>
+<blockquote>A towel is just about the most massively useful thing any interstellar Hitchhiker can carry.
+</blockquote>      
+      <h3><small>RECENT POSTS</small></h3>
       <hr>
       <h2>Github</h2>
       <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
@@ -37,9 +41,6 @@ For example, the source code to this website is on github as
 
 
 </p>
-
-      
-      <p><span class="badge">2</span> Comments:</p><br>
       
       <div class="row">
         <div class="col-sm-2 text-center">
@@ -78,8 +79,5 @@ Relational databases are so overrated.
 <footer class="container-fluid">
 <!--#include virtual="/fragment/bottomfooter.frag" -->
 </footer>
-
-
 </body>
 </html>
-
