@@ -14,8 +14,8 @@
   <div class="row content"> <!–– whole page ––> 
 <!--#include virtual="/fragment/sidenav.frag" -->
 
-  <div class="col-sm-9"> <!-- block of 9 -->
- <h2>I Love Motorcycles</h2>
+<div class="col-sm-9"> <!-- block of 9 -->
+
 <h2>Pat Farrell's collection of useful and not so useful information</h2>
 I'm a retired software engineer. 
 This is my personal website. It reflects my interests currently and over some portion of my history.
