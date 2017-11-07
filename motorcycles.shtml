@@ -11,7 +11,7 @@
 <div class="container-fluid">
   <div class="row content">
 <!--#include virtual="/fragment/sidenav.frag" -->
-XXXX
+
 <hr>
     <div class="col-sm-9">
       <h2>I Love Motorcycles</h2>
@@ -19,8 +19,46 @@ XXXX
       <h5><span class="label label-danger">Motorcycles</span> <span class="label label-primary">All</span></h5><br>
       <p>I'm a motorcycle nut. I only have three now. I started riding when I was 18, way back in 1969.
       <br><br>
-      
-      <h4><small>RECENT POSTS</small></h4>
+          
+    <div class="row">
+
+     <div class="col-sm-3"> <img src="/images/200px-Hodaka_Ace_90.jpg"  height="200" width="200" alt="Hodaka Ace 90"></div>
+ <div class="col-sm-9">
+ <p>Trail/enduro. My first motorcycle was a Hodaka Ace 90, I bought it with the earnings of my work in the summer of 1969.
+It was a "dirt bike" altho it nominally was street legal.
+</div>
+</div> <!-- close row Hodaka -->
+<div class="row"> <!-- RD -->
+<p>
+<p>
+  <div class="col-sm-2 text-center">
+          <img src="/images/RD350_1974.jpg" height="100" width="150" alt="RD350">
+        </div>
+    <div class="col-sm-1">  &nbsp;</div>
+<p></p>
+  <div class="col-sm-6">
+My friend Lloyd introduced me to street bikes, my early bikes were mostly dirt bikes. 
+Once I rode Lloyd's Yamaha R5, I was hooked.
+I had to have my own Yamaha 350, so I bought a Yamaha RD350.
+<p>
+<p>
+In a few years, I got into road racing, and did that up through the 1987 season.
+
+<p>
+</div>
+ 
+</div>  <!-- close RD -->
+    <div class="row"> <!-- only 9 left -->
+     <div class="col-sm-4"><img src="/images/pickingup_ktm300.jpg"  height="250" width="300" alt="New KTM300"></div>
+     <div class="col-sm-5">I got out of motorcycles, did not ride one again for about 30 years.
+Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 300 XC-W.
+     </div>
+</div> <!-- row about getting out -->
+
+
+  <div class="row">
+    
+<h4><small>RECENT POSTS</small></h4>
       <hr>
       <h2>Observed Trials</h2>
       <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
@@ -33,40 +71,22 @@ I recently bought a used trials bike, so I can improve my balance and bike contr
 </p>
 I attended Ryan Young's trials school in Shepherdstown WV at the end of September 2017.
 He is a great guy, check out his <a href="http://rypusa.com/">Ryan Young Products</a> website.
-
-      <h2>Trails/Enduro</h2>
-      <h5><span class="glyphicon glyphicon-time"></span> Post August 23, 2016.</h5>
-      <h5><span class="label label-success">Trails</span></h5><br>
-      <p>Trail/enduro. My first motorcycle was a Hodaka Ace 90, I bought it with the earnings of my work in the summer of 1969.
-It was a "dirt bike" altho it nominally was street legal.<br>
-<img src="/images/200px-Hodaka_Ace_90.jpg"  height="200" width="200" alt="Hodaka Ace 90">
-
-<br>
-I got out of motorcycles in about 1985, did not ride one again for about 30 years.
-Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 300 XC-W.
-<br>
-
-<img src="/images/pickingup_ktm300.jpg"  height="250" width="300" alt="New KTM300">
-</p>
-      <hr>
-
-      <br><br>
-      
-      <p><span class="badge">2</span> Comments:</p><br>
+      </div>
       
       <div class="row">
-        <div class="col-sm-2 text-center">
-          <img src="/images/Beta_at_Chris_K.jpg" class="img-circle" height="65" width="65" alt="Beta trials">
+        <div class="col-sm-12">
+
+      <h3>Favorites</h3>
+          <h4>Motorcycle shops </h4>
+          <UL>
+<li><a href="https://www.solid-performance.com/">Solid Performance</a>
+<li><a href="https://www.mattocycle.com/">Matto Cycle</a>
+<li><a href="http://www.tryalsshop.com/">TryalsShop</a>
+</UL>
         </div>
-        <div class="col-sm-10">
-          <h4>Anja <small>Sep 29, 2015, 9:12 PM</small></h4>
-          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <br>
-        </div>
-        <div class="col-sm-2 text-center">
-          <img src="/images/pickingup_ktm300.jpg" class="img-circle" height="65" width="65" alt="KTM300">
-        </div>
-        <div class="col-sm-10">
+</div>
+      <div class="row">
+        <div class="col-sm-9">
           <h4>John Row <small>Sep 25, 2015, 8:25 PM</small></h4>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <br>

@@ -11,86 +11,50 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row content"> <!–– one row for whole page ––> 
+  <div class="row content"> <!–– whole page ––> 
 <!--#include virtual="/fragment/sidenav.frag" -->
-      
-    <div class="col-sm-9">
-<h2>Pat Farrell's collection of useful and no so useful information</h2>
+
+  <div class="col-sm-9"> <!-- block of 9 -->
+ <h2>I Love Motorcycles</h2>
+<h2>Pat Farrell's collection of useful and not so useful information</h2>
 I'm a retired software engineer. 
 This is my personal website. It reflects my interests currently and over some portion of my history.
 
-    </div>
-    <div class="col-sm-9">
+  <p>
     
-      <h2>I Love Motorcycles</h2>
+      <h2>I Love Motorcycles and my grandkids</h2>
+Since I am retired, I get to do what I want. These days, what I want is mostly focused on my family and motorcycles.
+Family including my wife, daughter, her husband, and the two world's best grand-daughters.
+I have a separate section on <a href=/motorcycles>Motorcycles</a>, and don't post photos of my family 
+because the Internet is too full of weirdos.
+   
 
-      <h5><span class="label label-danger">Motorcycles</span> <span class="label label-primary">All</span></h5><br>
-      <p>I'm a motorcycle nut. I only have three now. I started riding when I was 18, way back in 1969.
-      <br>
-    </div>
       
-        <div class="col-sm-2 text-center">
-          <img src="/images/RD350_1974.jpg" height="100" width="150" alt="RD350">
-        </div>
-    <div class="col-sm-1">  &nbsp;</div>
-  <div class="col-sm-6">
-My friend Lloyd introduced me to street bikes, my early bikes were mostly dirt bikes. 
-Once I rode Lloyd's Yamaha R5, I was hooked.
-I had to have my own Yamaha 350, so I bought a Yamaha RD350.
+Additional hobbies include:
+<ul>
+<li>Photography
+<li>small scale systems (Adruino and Raspberry PI, etc.)
+<li>music
+<li>History
+<li>politics
+<li>Modern programming languages (go, scala, etc.)
+</ul>
 <p>
-<p>
-In a few years, I got into road racing, and did that up through the 1987 season.
-<p><p>
-</div>
       
-    <div class="col-sm-9">
-      
-      <h2>Observed Trials</h2>
-      <h5><span class="glyphicon glyphicon-time"></span> Post Sep 17, 2017.</h5>
-      <h5><span class="label label-success">Observed Trials</span></h5><br>
-      <p>Trials (or more properly "Observed Trials") is a motorcycle sport that is unlike anything I've done before.
-Its about balance and timing, not about speed.
-I recently bought a used trials bike, so I can improve my balance and bike control.<br>
-
-<img src="/images/Beta_at_Chris_K.jpg"  height="150" width="250" alt="Beta trials">
-</p>
-
-      <h2>Trails/Enduro</h2>
-      <h5><span class="glyphicon glyphicon-time"></span> Post August 23, 2016.</h5>
-      <h5><span class="label label-success">Trails</span></h5><br>
-      <p>Trail/enduro. My first motorcycle was a Hodaka Ace 90, I bought it with the earnings of my work in the summer of 1969.
-It was a "dirt bike" altho it nominally was street legal.<br>
-<img src="/images/200px-Hodaka_Ace_90.jpg"  height="200" width="200" alt="Hodaka Ace 90">
-
-<br>
-I got out of motorcycles in about 1985, did not ride one again for about 30 years.
-Then I slowly got back into it. Last Summer, I bought a new enduro bike, a KTM 300 XC-W.
-<br>
-
-<img src="/images/pickingup_ktm300.jpg"  height="250" width="300" alt="New KTM300">
-</p>
-      <hr>
-
-      
-        <div class="col-sm-2 text-center">
-          <img src="/images/Beta_at_Chris_K.jpg" class="img-circle" height="65" width="65" alt="Beta trials">
-        </div>
-        <div class="col-sm-10">
+        <div class="col-sm-7">
           <h4>Anja <small>Sep 29, 2015, 9:12 PM</small></h4>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <br>
         </div>
-        <div class="col-sm-2 text-center">
-          <img src="/images/pickingup_ktm300.jpg" class="img-circle" height="65" width="65" alt="KTM300">
-        </div>
-        <div class="col-sm-10">
+
+        <div class="col-sm-7">
           <h4>John Row <small>Sep 25, 2015, 8:25 PM</small></h4>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <br>          
         </div>
      </div>
-  </div>  <!–– close row ––> 
-</div>
+  </div>
+</div>   
 
 <footer class="container-fluid">
 <!--#include virtual="/fragment/bottomfooter.frag" -->
