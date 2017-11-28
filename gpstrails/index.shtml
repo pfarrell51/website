@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Pat Farrell's dvtrailriders sample page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include virtual="/fragment/top.frag" -->
+
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content"> <!–– whole page ––> 
+<!--#include virtual="/fragment/sidenav.frag" -->
+
+<div class="col-sm-9"> <!-- block of 9 -->
+
+<h2>Pat Farrell's collection of useful FRO/RAC stuff</h2>
+
+<p>
+Note, here in PA, we have rocks. All of the trails have rocks. 
+
+
+
+<p>
+Dress in layers. It can be quite cold up on the mountain. Yet when you are riding in technical sections of the woods, you will use a lot of energy and warm up.
+
+<h2>A bit more details on the three route flavors</h2>
+
+<h3>Big Bikes:</h3> simple follow the leader with a sweep.  Designed to be fun for big bike and new dirt riders (ATV and dirt or dual sport), focus on  open truck roads.
+<p>
+<h3>Single-track:</h3> Challenging single track trails. Motorcycles only. Intermediate and expert riders on enduro bikes will have fun. The trails are tight, rocky, twisty and have lots of roots. Recommend you have at least 20/80 (pavement/dirt) tires.Tracks are marked with paint on trees. See photo here: XXXXX  Just follow the markings and have fun.
+<p>
+<h3>Dirt bike and ATV: </h3>Designed for intermediate riders on dirt/enduro bikes. All of the trails are sufficiently wide for ATVs as well. Total route is about 20 miles. Navigation is by GPS or enduro-style roll-route instructions. See below.  There are several options. Most of the trails are fairly rocky. There are short sections that are both rocky and steep, but most of the climbs are just rocky.
+<p><p>
+<dl>
+<dd>Special warning
+<di>There are two sections of the trails that require special notice
+<ul>
+<li>There is a section with a level and easy trail that gets steep and climbs about 20 feet. The climb is not difficult, but you need to carry some momentum up the climb. Once you are at the top of the climb, you need to turn left down a rocky trail. Please do not stop right at the top, allow room for other riders to complete the climb. So if you want to stop, go ten yards down the trail.
+<li>There are a number of washed out sections, (ruts. gullies, crevasse, etc.) in the trail. One climb that is west of Thomaston Road has some very large ruts, as long as you watch out for them, they are easy to avoid, the climb there is not difficult. But you need to keep your eyes open.
+</ul>
+</dl>
+<p><p>
+The ride starts with a simple trail that is slightly downhill, but rocky that heads East (back towards Route 61) from the parking area. It then doubles back to the left in an acute turn, and climbs back to the parking area. This serves are a calibration ride. The rocks on this short section are typical of the rest of the trails. If you have trouble on this initial section, you should consider taking the big bike routes.
+Options:
+<ol>
+<li>Single-track loop. Short branch single-track off one of the main wide trails, returns 100 yards west of entrance. Rocky and twisty, but not too technical
+<li>Short dead-end near dragline. Easy trail that provides a nice view of the valley.
+<li>Longer dead-end scenic view. Easy trail that shows different nice view of valley
+<li>Return from Dark Desert backtrack. If you want to avoid the long rocky trail, you can simply reverse course down to the haul road, then turn left and continue West to Thomaston Rd, and rejoin the route.
+<li>If you want to head west from Dark Desert, follow the Option 3 GPS track below, it is a fairly gentle descent down to Sunbury Rd (Rt 901). You can go right (North) on 901, and then pick up the trail just before Valley Road. 
+<li>On the return from the western-most point of the trail, you can chose to stay on the main haul road according to Option 4 GPS track. The main route turns right and is a bit more interesting, parallel to the haul road with rocks, a stream and some whoops.
+</ol>
+
+<h1>Beta (testing) version on route tracks, and GPS files</h1>
+These are temporary versions of a work in progress.
+We will update the files with the final version by Tuesday November 28 2017
+
+
+<h3>Roll route tracks</h3>
+Here is an enduro style roll route track. Print it out, cut into strips, and put in your 
+usual roll-route holder. Link to <a href=https://docs.google.com/spreadsheets/d/1k1gIMhK9mD-iIRzTik1mQcnETStF6cT1M5tUgnHZD2A/edit?usp=sharing>Roll-route track.</a>
+
+<p>
+<h3>GPS/GPX tracks and Basecamp database</h3>
+<dl>
+<dt>Main route, GPS/GPX version
+<dd><a href=data/DirtySantaBetaNov21.gpx >Main route GPS/GPX track</a>
+<dt>Main route, Garmin Basecamp Route version
+<dd><a href=data/DirtySantaBasecampBetaNov21.gdb>Garmin DB Route</a>
+
+<dt>Option 1, Short single track loop
+<dd><a href=data/E_DS_Option_single_track.gpx> Optional single track gpx</a>
+<dt>Option 2, Short dead-end scenic view
+<dd> <a href=dada/G_DS_Option_Deadend_overlook_1.gpx>Optional dead end scenic overlook One</a>
+<dt>Option 3, Longer dead-end scenic view
+<dd><a href=data/H_DS_Optional_deadend_overlook_2.gpx>Optional dead end track to another scenic overlook</a>
+<dt>Option 4, Retrace route from Dark Desert
+<dd>The trail from Darkwater north is pretty rocky, here is an optional track to 
+the track back down the same way you came up.<a href=data/I_DS_Opton_Desert_Back_to_MainHaul.gpx>Retrace back</a>
+<dt>Option 5, Mellow descent to pavement from Dark Desert
+<dd>Alternative option, goes down to paved public roads, only for street legal bikes
+<a href=data/J_DS_Option_BlackDesert_to_Down_to_901_onto_main_haul.gpx>Easy route for plated bikes</a>
+<dt>Option 6, stay on main haul road back to Thomaston Road
+<dd><a href=data/L_Option_EasyHaulRoad.gpx>Easy haul road</a>
+</dl>
+
+ 
+   
+
+      
+     </div>
+  </div>
+</div>   
+
+<footer class="container-fluid">
+<!--#include virtual="/fragment/bottomfooter.frag" -->
+</footer>
+</body>
+</html>
