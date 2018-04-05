@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Random technical notes by Pat Farrell</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--#include virtual="/fragment/top.frag" -->
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <!--#include virtual="/fragment/sidenav.frag" -->
+
+    <div class="col-sm-9">
+      <h4><small>General Topics</small></h4>
+      <hr>
+      <h2>Collected over the decades</h2>
+
+      <h5><span class="label label-danger">Check digits and error codes</span> <span class="label label-primary">All</span></h5><br>
+      <p>How automotive VIN checksums are calculated. <a href="https://vin.dataonesoftware.com/vin_basics_blog/bid/112040/Use-VIN-Validation-to-Improve-Inventory-Quality">VIN checksum</a>
+      <br><br>
+      
+      <h4><small>RECENT POSTS</small></h4>
+      <hr>
+      <h2>Lorem Ipsum </h2>
+        <div class="col-sm-10">
+          <h4>Anja <small>Sep 29, 2015, 9:12 PM</small></h4>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          <img src="/images/pickingup_ktm300.jpg" class="img-circle" height="65" width="65" alt="KTM300">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid">
+<!--#include virtual="/fragment/bottomfooter.frag" -->
+</footer>
+
+
+</body>
+</html>
+
