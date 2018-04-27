@@ -7,6 +7,6 @@
     <li><a href="/motorcycles">Motorcycles in general, history, etc.</a></li>
     <li><a href="/geek">Tech & Geek</a></li>
     <li><a href="#section4">Photos</a></li>
-    <li><a href="https://www.youtube.com/channel/UC1xb74AQi4oMrlFwFqmqy0w">My YouTube videos</a></li>
+    <li><a href="https://www.youtube.com/c/PatFarrellKTM">My YouTube videos http://youtube.com/c/PatFarrellKTM</a> </li>
   </ul><br>
 </div>
