@@ -16,7 +16,7 @@
 
 <div class="col-sm-9"> <!-- block of 9 -->
 
-<h2>Pat Farrell's collection of useful FRO/RAC stuff</h2>
+<h2>Pat Farrell's collection of useful GPS/GPX tracks</h2>
 
 <p>
 Note, here in PA, we have rocks. All of the trails have rocks. 
@@ -27,16 +27,18 @@ Note, here in PA, we have rocks. All of the trails have rocks.
 <p>
 <h3>GPS/GPX tracks and Basecamp database</h3>
 <dl>
-<dt>Main route, GPS/GPX version
-<dd><a href=data/DirtySantaBetaNov21.gpx >Main route GPS/GPX track</a>
+<dt>Main route 2017, GPS/GPX version
+<dd><a href=data/DirtySantaBetaNov21.gpx >Main route 2017 GPS/GPX track</a>
 <dt>Main route, Garmin Basecamp Route version
 <dd><a href=data/DirtySantaBasecampBetaNov21.gdb>Garmin DB Route</a>
-
+<dt>Burma Road
+<dd><a href=data/BasicBurma218-06-15.gpx>Basic Burma Road routes</a>
 <dt>rhododendron bypass, Lot #2 Darkwater to Lot #1, Burma Road
 <dd><a href=data/rhododendron_Darkwater_to_Burma.gpx>rhododendron bypass Darkwater_to_Burma parking lots</a>
 <dt>Locust Gap
 <dd><a href=data/Locust_Gap.gpx>FRO Locus Gap</a>
-
+<dt>Michaux Dual Sport 2018
+<dd><a href=data/MichauxDualSport2018.gpx>Michaux 2018</a> Note, many of these trails are open to motorcycles only for this event.
 </dl>
 
  
