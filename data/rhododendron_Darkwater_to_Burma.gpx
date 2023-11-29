@@ -1,0 +1,701 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-04-26T21:12:15Z</time>
+    <bounds maxlat="40.735783958807588" maxlon="-76.177484281361103" minlat="40.727745126932859" minlon="-76.210335977375507" />
+  </metadata>
+
+  <rte>
+    <name>rhododendron_Darkwater_to_Burma</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="40.733558982610703" lon="-76.210335977375507">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma</name>
+      <cmt>rhododendron_Darkwater_to_Burma</cmt>
+      <desc>rhododendron_Darkwater_to_Burma</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734128030017018" lon="-76.209532991051674">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-1</name>
+      <cmt>rhododendron_Darkwater_to_Burma-1</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734678972512484" lon="-76.208739979192615">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-2</name>
+      <cmt>rhododendron_Darkwater_to_Burma-2</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735146012157202" lon="-76.208166992291808">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-3</name>
+      <cmt>rhododendron_Darkwater_to_Burma-3</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735094966366887" lon="-76.206849021837115">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-4</name>
+      <cmt>rhododendron_Darkwater_to_Burma-4</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734579982236028" lon="-76.205639010295272">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-5</name>
+      <cmt>rhododendron_Darkwater_to_Burma-5</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734544023871422" lon="-76.205233996734023">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-6</name>
+      <cmt>rhododendron_Darkwater_to_Burma-6</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734696993604302" lon="-76.204391028732061">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-7</name>
+      <cmt>rhododendron_Darkwater_to_Burma-7</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734916012734175" lon="-76.203848971053958">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-8</name>
+      <cmt>rhododendron_Darkwater_to_Burma-8</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734973009675741" lon="-76.203624000772834">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-9</name>
+      <cmt>rhododendron_Darkwater_to_Burma-9</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735130002722144" lon="-76.20318797416985">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-10</name>
+      <cmt>rhododendron_Darkwater_to_Burma-10</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735323037952185" lon="-76.202814979478717">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-11</name>
+      <cmt>rhododendron_Darkwater_to_Burma-11</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735334018245339" lon="-76.202624961733818">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-12</name>
+      <cmt>rhododendron_Darkwater_to_Burma-12</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735380034893751" lon="-76.202421030029655">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-13</name>
+      <cmt>rhododendron_Darkwater_to_Burma-13</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735640041530132" lon="-76.201863968744874">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-14</name>
+      <cmt>rhododendron_Darkwater_to_Burma-14</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735723022371531" lon="-76.201753998175263">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-15</name>
+      <cmt>rhododendron_Darkwater_to_Burma-15</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735767027363181" lon="-76.201549982652068">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-16</name>
+      <cmt>rhododendron_Darkwater_to_Burma-16</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735783958807588" lon="-76.201332975178957">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-17</name>
+      <cmt>rhododendron_Darkwater_to_Burma-17</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735573992133141" lon="-76.200944976881146">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-18</name>
+      <cmt>rhododendron_Darkwater_to_Burma-18</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.735188005492091" lon="-76.200813967734575">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-19</name>
+      <cmt>rhododendron_Darkwater_to_Burma-19</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734938979148865" lon="-76.200677007436752">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-20</name>
+      <cmt>rhododendron_Darkwater_to_Burma-20</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.73477603495121" lon="-76.200493024662137">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-21</name>
+      <cmt>rhododendron_Darkwater_to_Burma-21</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734702022746205" lon="-76.200383976101875">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-22</name>
+      <cmt>rhododendron_Darkwater_to_Burma-22</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.734350988641381" lon="-76.199892964214087">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-23</name>
+      <cmt>rhododendron_Darkwater_to_Burma-23</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.733824018388987" lon="-76.198757970705628">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-24</name>
+      <cmt>rhododendron_Darkwater_to_Burma-24</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.733055984601378" lon="-76.197274960577488">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-25</name>
+      <cmt>rhododendron_Darkwater_to_Burma-25</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.733021032065153" lon="-76.197229027748108">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-26</name>
+      <cmt>rhododendron_Darkwater_to_Burma-26</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.733000999316573" lon="-76.197140011936426">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-27</name>
+      <cmt>rhododendron_Darkwater_to_Burma-27</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.73290603235364" lon="-76.196989975869656">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-28</name>
+      <cmt>rhododendron_Darkwater_to_Burma-28</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.731856031343341" lon="-76.196092022582889">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-29</name>
+      <cmt>rhododendron_Darkwater_to_Burma-29</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.730806030333042" lon="-76.195689020678401">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-30</name>
+      <cmt>rhododendron_Darkwater_to_Burma-30</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.730392970144749" lon="-76.19562498293817">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-31</name>
+      <cmt>rhododendron_Darkwater_to_Burma-31</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.73022298514843" lon="-76.195661025121808">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-32</name>
+      <cmt>rhododendron_Darkwater_to_Burma-32</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729961972683668" lon="-76.195634035393596">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-33</name>
+      <cmt>rhododendron_Darkwater_to_Burma-33</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729720992967486" lon="-76.195567985996604">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-34</name>
+      <cmt>rhododendron_Darkwater_to_Burma-34</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729575986042619" lon="-76.195595981553197">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-35</name>
+      <cmt>rhododendron_Darkwater_to_Burma-35</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729210786521435" lon="-76.195455165579915">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-36</name>
+      <cmt>rhododendron_Darkwater_to_Burma-36</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.728892022743821" lon="-76.194772375747561">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-37</name>
+      <cmt>rhododendron_Darkwater_to_Burma-37</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.727921230718493" lon="-76.194436261430383">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-38</name>
+      <cmt>rhododendron_Darkwater_to_Burma-38</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.727745126932859" lon="-76.194053711369634">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-39</name>
+      <cmt>rhododendron_Darkwater_to_Burma-39</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.72818542830646" lon="-76.192682599648833">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-40</name>
+      <cmt>rhododendron_Darkwater_to_Burma-40</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.728954216465354" lon="-76.192508675158024">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-41</name>
+      <cmt>rhododendron_Darkwater_to_Burma-41</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.731137115508318" lon="-76.188119994476438">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-42</name>
+      <cmt>rhododendron_Darkwater_to_Burma-42</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.731246583163738" lon="-76.187571566551924">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-43</name>
+      <cmt>rhododendron_Darkwater_to_Burma-43</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.73083184659481" lon="-76.186547633260489">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-44</name>
+      <cmt>rhododendron_Darkwater_to_Burma-44</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729649662971497" lon="-76.185237038880587">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-45</name>
+      <cmt>rhododendron_Darkwater_to_Burma-45</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729476660490036" lon="-76.183934491127729">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-46</name>
+      <cmt>rhododendron_Darkwater_to_Burma-46</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729102240875363" lon="-76.183253629133105">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-47</name>
+      <cmt>rhododendron_Darkwater_to_Burma-47</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.729020936414599" lon="-76.181322354823351">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-48</name>
+      <cmt>rhododendron_Darkwater_to_Burma-48</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.72849664837122" lon="-76.178781548514962">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-49</name>
+      <cmt>rhododendron_Darkwater_to_Burma-49</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.728749614208937" lon="-76.17785207927227">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-50</name>
+      <cmt>rhododendron_Darkwater_to_Burma-50</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.728541491553187" lon="-76.177484281361103">
+      <time>2018-04-26T21:11:25Z</time>
+      <name>rhododendron_Darkwater_to_Burma-51</name>
+      <cmt>rhododendron_Darkwater_to_Burma-51</cmt>
+      <desc>rhododendron_Darkwater_to_Burma-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
