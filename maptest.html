@@ -1,0 +1,75 @@
+			<!DOCTYPE html>
+			<html>
+			<head>
+			    <meta charset="utf-8">
+			    <title>Map of Pat and Mikes return to Philly</title>
+			    <style>
+			        /* Always set the map height explicitly to define the size of the div
+			           * element that contains the map. */
+			        #map {
+			            height: 100%;
+			        }
+			        /* Optional: Makes the sample page fill the window. */
+			        html, body {
+			            height: 100%;
+			            margin: 0;
+			            padding: 0;
+			        }
+			    </style>
+			</head>
+			<body>
+			    <div id="map"></div>
+			    <script>
+			        // The latitude and longitude points along the path
+			        var flightPlanCoordinates = [
+					{lat: 40.2578911000, lng: -77.1786729000},
+					{lat: 40.2564506000, lng: -77.1664490000},
+					{lat: 40.2550128000, lng: -77.1542660000},
+					{lat: 40.2535857000, lng: -77.1421461000},
+					{lat: 40.2521713000, lng: -77.1300928000},
+					{lat: 40.2507141000, lng: -77.1180737000},
+					{lat: 40.2492855000, lng: -77.1060750000},
+					{lat: 40.2478706000, lng: -77.0940988000},
+					{lat: 40.2464576000, lng: -77.0821391000},
+					{lat: 40.2450232000, lng: -77.0701631000},
+					{lat: 40.2436372000, lng: -77.0582183000},
+					{lat: 40.2422267000, lng: -77.0462793000},
+					{lat: 40.2408041000, lng: -77.0344157000},
+					{lat: 40.2395024000, lng: -77.0225852000},
+					{lat: 40.2381765000, lng: -77.0107068000},
+					{lat: 40.2367765000, lng: -76.9988987000},
+					{lat: 40.2353379000, lng: -76.9871011000},
+					{lat: 40.2338927000, lng: -76.9752628000},
+					{lat: 40.2324298000, lng: -76.9634691000},
+					{lat: 40.2310785000, lng: -76.9517140000},
+					{lat: 40.2298123000, lng: -76.9399199000},
+					{lat: 40.2284494000, lng: -76.9281351000},
+					{lat: 40.2271012000, lng: -76.9163136000},
+					{lat: 40.2257163000, lng: -76.9045640000},
+					{lat: 40.2243155000, lng: -76.8927482000},
+					{lat: 40.2229097000, lng: -76.8809772000},
+					{lat: 40.2214621000, lng: -76.8692337000},
+					{lat: 40.2200502000, lng: -76.8574259000},
+					{lat: 40.2032866000, lng: -76.07176254000}
+			      ];
+					
+			        function initMap() {
+			            var map = new google.maps.Map(document.getElementById('map'), {
+								center: {lat: 40.2437008, lng: -77.07423283},
+			                zoom: 11 
+			            });
+			
+			            var flightPath = new google.maps.Polyline({
+			                path: flightPlanCoordinates,
+			                geodesic: true,
+			                strokeColor: '#FF0000',
+			                strokeOpacity: 1.0,
+			                strokeWeight: 2
+			            });
+			
+			            flightPath.setMap(map);
+			        }
+			    </script>
+			    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKwXQULiwiePqjHaIut4ujTao6Q2E-R1o&callback=initMap" async defer></script>
+			</body>
+		</html>
